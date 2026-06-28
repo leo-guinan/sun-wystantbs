@@ -1,0 +1,382 @@
+{
+  "id": "sun-wystantbs",
+  "repo_url": "",
+  "viewer_url": "",
+  "manifest_url": "",
+  "museum_copy": {
+    "title": "@wystantbs Solar Museum",
+    "subtitle": "Community Archive proof-of-search map.",
+    "warning": "Archive terrain, not reputation. Raw coverage ends where the archive/upload/API ends."
+  },
+  "sun": {
+    "id": "sun_0fb271a18a67",
+    "display_name": "wystantbs",
+    "user_id": "@wystantbs",
+    "description": "Community Archive-derived proof-of-search sun for @wystantbs.",
+    "document_count": 14472,
+    "word_count": 392584,
+    "active_days": 684,
+    "emissions": [
+      "Practice",
+      "Which",
+      "Mind",
+      "Don",
+      "Good",
+      "Time"
+    ],
+    "generated_at": "2026-06-28T14:44:28.367484+00:00",
+    "color": "#f59e0b",
+    "mass": 12.881
+  },
+  "planets": [
+    {
+      "id": "planet_24c4075ec6a4",
+      "name": "Practice",
+      "summary": "Archive cluster around practice: 11618 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "practice",
+        "here",
+        "any",
+        "nickcammarata",
+        "now"
+      ],
+      "artifacts": [
+        {
+          "id": "art_5430f039a44f",
+          "title": "Practice receipt from 2024-12-21",
+          "excerpt": "Re the chakra discourse here, suggest reading this in full, linked below. https://t.co/yC5SRd3MoH",
+          "source_document_id": "1870550909119516715",
+          "timestamp": "2024-12-21T19:24:24+00:00",
+          "url": "https://x.com/wystantbs/status/1870550909119516715",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: practice, here, any, nickcammarata."
+        },
+        {
+          "id": "art_56d5e8f04990",
+          "title": "Practice receipt from 2024-07-18",
+          "excerpt": "I limited myself to three books per topic.\nMy top recommendations, emphasis on practical utility rather than theoretical completeness: https://t.co/oTfMj9ddcW",
+          "source_document_id": "1813998167819682219",
+          "timestamp": "2024-07-18T18:04:00+00:00",
+          "url": "https://x.com/wystantbs/status/1813998167819682219",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: practice, here, any, nickcammarata."
+        },
+        {
+          "id": "art_ffc70d40a965",
+          "title": "Practice receipt from 2024-05-20",
+          "excerpt": "@nosilverv I worked for ~10 months in an extremely busy restaurant, prepping ingredients, making sides, making massive amounts of dough in an industrial mixer, running the register and preparing orders, on my feet constantly moving all day, two strictly timed 15 minute breaks.\nNever…",
+          "source_document_id": "1792562531401412937",
+          "timestamp": "2024-05-20T14:26:26+00:00",
+          "url": "https://x.com/wystantbs/status/1792562531401412937",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: practice, here, any, nickcammarata."
+        },
+        {
+          "id": "art_84c39b5ee428",
+          "title": "Practice receipt from 2025-06-02",
+          "excerpt": "I once again would like to express my confusion and disappointment with the fact that, despite our species' successful mechanization of agricultural labor and prodigious industrial capacity to provide heretofore unbelievable surplus, we continue to toil our lives away producing…",
+          "source_document_id": "1929578707897012349",
+          "timestamp": "2025-06-02T16:39:48+00:00",
+          "url": "https://x.com/wystantbs/status/1929578707897012349",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: practice, here, any, nickcammarata."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_26fcc3dafb31",
+      "proof_score": 1,
+      "mass": 37.496,
+      "color": "#14b8a6",
+      "cluster_id": 0
+    },
+    {
+      "id": "planet_9ac927993542",
+      "name": "Which",
+      "summary": "Archive cluster around which: 725 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "which",
+        "mind",
+        "buddha",
+        "here",
+        "through"
+      ],
+      "artifacts": [
+        {
+          "id": "art_76e3e26e1299",
+          "title": "Which receipt from 2024-10-19",
+          "excerpt": "Zen in dialogue with God:\n\n\"We have been loath to use the word “God” when in dialogue with the adherents of Abrahamic faiths. This has been a mistake. Such hesitance naturally comes in part from the fact that Buddhism has a nontheistic approach, which does not posit the existence…",
+          "source_document_id": "1847714334857633869",
+          "timestamp": "2024-10-19T19:00:00+00:00",
+          "url": "https://x.com/wystantbs/status/1847714334857633869",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: which, mind, buddha, here."
+        },
+        {
+          "id": "art_9febaf6b0c20",
+          "title": "Which receipt from 2024-10-21",
+          "excerpt": "I understand why people despise Buddhist philosophy, sometimes this shit is worse than Hegel or Heidegger:\n\n\"Candrakīrti explains:\n\n\"If the origination known as the origination of origination, which is produced by the primary origination, produces the primary origination, how…",
+          "source_document_id": "1848504902051373082",
+          "timestamp": "2024-10-21T23:21:26+00:00",
+          "url": "https://x.com/wystantbs/status/1848504902051373082",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: which, mind, buddha, here."
+        },
+        {
+          "id": "art_7104dd63e5e7",
+          "title": "Which receipt from 2025-06-08",
+          "excerpt": "I end up fielding a lot of misinformed questions which have their source in what someone here has read or heard amongst the mish-mash of pop-Dharma and self-taught, highly idiosyncratic systematizers.\nThis is an excellent reference, also check the freely available translations of… https://t.co/ZgxqUkUMID",
+          "source_document_id": "1931790472273637486",
+          "timestamp": "2025-06-08T19:08:34+00:00",
+          "url": "https://x.com/wystantbs/status/1931790472273637486",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: which, mind, buddha, here."
+        },
+        {
+          "id": "art_c59b9fd5f542",
+          "title": "Which receipt from 2024-05-04",
+          "excerpt": "Don't know who needs to hear this, but:\n\nBuddhist traditions such as Zen and Dzogchen which directly point to the nature of mind as it is rely on the fact that the six sense-fields, the separation of which is actually just spacious flowing vastness seemingly segmented, always…",
+          "source_document_id": "1786816239198969936",
+          "timestamp": "2024-05-04T17:52:43+00:00",
+          "url": "https://x.com/wystantbs/status/1786816239198969936",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: which, mind, buddha, here."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_9b271873900a",
+      "proof_score": 1,
+      "mass": 31.89,
+      "color": "#f59e0b",
+      "cluster_id": 1
+    },
+    {
+      "id": "planet_82d406bab9fd",
+      "name": "Mind",
+      "summary": "Archive cluster around mind: 505 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "mind",
+        "body",
+        "own",
+        "nature",
+        "any"
+      ],
+      "artifacts": [
+        {
+          "id": "art_ae8b23aec7ad",
+          "title": "Mind receipt from 2025-06-03",
+          "excerpt": "Been said before but worth saying again, as a reminder to myself as much as to anyone else: a good walk, strenuous cardio and/or resistance training is often more appropriate than sitting in a formal meditation posture as strong emotions roil through the body-mind.",
+          "source_document_id": "1929898163886010755",
+          "timestamp": "2025-06-03T13:49:12+00:00",
+          "url": "https://x.com/wystantbs/status/1929898163886010755",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: mind, body, own, nature."
+        },
+        {
+          "id": "art_cd79b32ff16a",
+          "title": "Mind receipt from 2024-08-07",
+          "excerpt": "The nastiest, most vindictive characters I've had the displeasure of navigating, in communes, in monasteries, online, at work, everywhere, are always those who believe themselves uncritically to be acting in the service of Love and Truth.\n\"Never mind my lying, cut corners,…",
+          "source_document_id": "1821196022863040704",
+          "timestamp": "2024-08-07T14:45:42+00:00",
+          "url": "https://x.com/wystantbs/status/1821196022863040704",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: mind, body, own, nature."
+        },
+        {
+          "id": "art_7729a3e37b32",
+          "title": "Mind receipt from 2025-03-10",
+          "excerpt": "Some older meditation manuals are written for use by both teachers and students, and you'll find offhand lines going something like:\n\"If at this point the disciple has not been introduced to the view that all is the magical appearance of one's own mind, introduce it now.\"\n😄",
+          "source_document_id": "1899143892911694179",
+          "timestamp": "2025-03-10T17:02:43+00:00",
+          "url": "https://x.com/wystantbs/status/1899143892911694179",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: mind, body, own, nature."
+        },
+        {
+          "id": "art_5d315100f8ef",
+          "title": "Mind receipt from 2024-06-06",
+          "excerpt": "Did you know that Tibetan monks in the Dalai Lama's sect regularly hold public, vigorous dharma debate and make their best efforts to tear each other's arguments apart?\n🤺\nVerbal sparring sharpens the mind and softens the heart when done well.\n🙏 https://t.co/hM1MbSXSsJ",
+          "source_document_id": "1798747416486941114",
+          "timestamp": "2024-06-06T16:02:57+00:00",
+          "url": "https://x.com/wystantbs/status/1798747416486941114",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: mind, body, own, nature."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_6133b68ed84f",
+      "proof_score": 0.973,
+      "mass": 30.264,
+      "color": "#8b5cf6",
+      "cluster_id": 2
+    },
+    {
+      "id": "planet_2ce6542cee99",
+      "name": "Don",
+      "summary": "Archive cluster around don: 601 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "don",
+        "know",
+        "any",
+        "see",
+        "think"
+      ],
+      "artifacts": [
+        {
+          "id": "art_724e1fb40c29",
+          "title": "Don receipt from 2025-06-13",
+          "excerpt": "💎Lama Lena is such a treasure.😅\n\"Don't try to make it fancy... What? You want to get something you never had before, that makes your eyes bug out and your mouth drop open? Nuh-uh, not gonna happen. It's just this. Stop fighting it...\nIt's not even that hard to find, you just… https://t.co/A8y4CgwEOJ",
+          "source_document_id": "1933496852571414789",
+          "timestamp": "2025-06-13T12:09:06+00:00",
+          "url": "https://x.com/wystantbs/status/1933496852571414789",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, know, any, see."
+        },
+        {
+          "id": "art_d75ad026c111",
+          "title": "Don receipt from 2025-01-26",
+          "excerpt": "If you're keen on waking up don't sleep on the jhanas.",
+          "source_document_id": "1883574819465404630",
+          "timestamp": "2025-01-26T17:56:46+00:00",
+          "url": "https://x.com/wystantbs/status/1883574819465404630",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, know, any, see."
+        },
+        {
+          "id": "art_ea9fd73e1cca",
+          "title": "Don receipt from 2024-06-27",
+          "excerpt": "Relatedly, there's this great anecdote of a Thai master trekking through the highlands, he's welcomed to a village, and everyone and their grandma is blasting through hard jhana in like a week and they don't want him to leave.\n😆 https://t.co/LNUGY9R72F",
+          "source_document_id": "1806434207763464387",
+          "timestamp": "2024-06-27T21:07:31+00:00",
+          "url": "https://x.com/wystantbs/status/1806434207763464387",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, know, any, see."
+        },
+        {
+          "id": "art_e14d613c175a",
+          "title": "Don receipt from 2024-06-28",
+          "excerpt": "Soliciting advice:\nShould I bother with testimonials on my website?\nThey don't do anything for me when I see them on other people's products and sites, if anything they appear somewhat tacky.\nThoughts?",
+          "source_document_id": "1806728079458570426",
+          "timestamp": "2024-06-28T16:35:16+00:00",
+          "url": "https://x.com/wystantbs/status/1806728079458570426",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, know, any, see."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_77a9fec74b58",
+      "proof_score": 0.99,
+      "mass": 30.352,
+      "color": "#06b6d4",
+      "cluster_id": 3
+    },
+    {
+      "id": "planet_aa17e6980cde",
+      "name": "Good",
+      "summary": "Archive cluster around good: 583 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "good",
+        "time",
+        "now",
+        "zen",
+        "way"
+      ],
+      "artifacts": [
+        {
+          "id": "art_610ea74fc35c",
+          "title": "Good receipt from 2024-11-04",
+          "excerpt": "Something I learned in private and in public through Zen training is earnestly making a fool of yourself while trying your best without regard for how you appear is the quickest way to learn and a good goad for letting go.\nEmbracing failure -&gt; success!",
+          "source_document_id": "1853542681861046579",
+          "timestamp": "2024-11-04T20:59:47+00:00",
+          "url": "https://x.com/wystantbs/status/1853542681861046579",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, time, now, zen."
+        },
+        {
+          "id": "art_38a5d0005471",
+          "title": "Good receipt from 2024-06-24",
+          "excerpt": "The traditional taboo against publicizing one's meditative experiences exists for good reason.\nWhy share?\nWhat's the intent, there?\nValidation?\nPlaudits?\nWhat is it that wants that?\nA desire to be seen as special?\nLooking for confirmation?\nWho needs that?\nAnd,\nI'm with the… https://t.co/JEtKTAtn2T",
+          "source_document_id": "1805231893828567115",
+          "timestamp": "2024-06-24T13:29:57+00:00",
+          "url": "https://x.com/wystantbs/status/1805231893828567115",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, time, now, zen."
+        },
+        {
+          "id": "art_a165f0aec369",
+          "title": "Good receipt from 2024-08-06",
+          "excerpt": "Bad news: you will never unite with ultimate reality.\nGood news: it's because you never left.",
+          "source_document_id": "1820829690850070827",
+          "timestamp": "2024-08-06T14:30:02+00:00",
+          "url": "https://x.com/wystantbs/status/1820829690850070827",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, time, now, zen."
+        },
+        {
+          "id": "art_0b83aad5f610",
+          "title": "Good receipt from 2024-11-05",
+          "excerpt": "Good work if you can get it. https://t.co/rABiH1jJ0b",
+          "source_document_id": "1853820085259108788",
+          "timestamp": "2024-11-05T15:22:05+00:00",
+          "url": "https://x.com/wystantbs/status/1853820085259108788",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, time, now, zen."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_51c4b1df4a47",
+      "proof_score": 0.987,
+      "mass": 29.076,
+      "color": "#f43f5e",
+      "cluster_id": 4
+    },
+    {
+      "id": "planet_822c6b477160",
+      "name": "Time",
+      "summary": "Archive cluster around time: 440 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "time",
+        "space",
+        "here",
+        "any",
+        "first"
+      ],
+      "artifacts": [
+        {
+          "id": "art_b278ba635ab5",
+          "title": "Time receipt from 2025-06-08",
+          "excerpt": "Over this last year teaching meditation full-time on donations I've tried a few different avenues of making it financially viable without betraying the spirit of what I've received from my own teachers and training.\n\nBefore I turned from the monastic path I had intended to wander…",
+          "source_document_id": "1931709796899754321",
+          "timestamp": "2025-06-08T13:47:59+00:00",
+          "url": "https://x.com/wystantbs/status/1931709796899754321",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: time, space, here, any."
+        },
+        {
+          "id": "art_00b5d19c7aa5",
+          "title": "Time receipt from 2024-06-27",
+          "excerpt": "PSA:\nI've lived full-time in monasteries for 2.5 years.\nThere's nothing worth clinging to you can accomplish there that you can't accomplish right where you are now.",
+          "source_document_id": "1806429253468410315",
+          "timestamp": "2024-06-27T20:47:50+00:00",
+          "url": "https://x.com/wystantbs/status/1806429253468410315",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: time, space, here, any."
+        },
+        {
+          "id": "art_968cf44a38e2",
+          "title": "Time receipt from 2024-08-06",
+          "excerpt": "Rumor has it Ajahn Chah here could enter jhana, of the maximally deep full absorption type, by the time he completed a single exhalation, any time.\n🙇‍♂️🙇‍♂️🙇‍♂️\nSo, you know, room for us all to improve.😄 https://t.co/NEkJOpJRiw",
+          "source_document_id": "1820899625664229748",
+          "timestamp": "2024-08-06T19:07:56+00:00",
+          "url": "https://x.com/wystantbs/status/1820899625664229748",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: time, space, here, any."
+        },
+        {
+          "id": "art_0a5039fb8fb4",
+          "title": "Time receipt from 2023-02-06",
+          "excerpt": "Life is strange when ~95% of the time the most enjoyable action available is some variant of sitting motionless.",
+          "source_document_id": "1622639900523626509",
+          "timestamp": "2023-02-06T16:54:34+00:00",
+          "url": "https://x.com/wystantbs/status/1622639900523626509",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: time, space, here, any."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_5c39d30c8cf3",
+      "proof_score": 0.959,
+      "mass": 29.437,
+      "color": "#84cc16",
+      "cluster_id": 5
+    }
+  ],
+  "provenance": {
+    "builder": "community-solar-systems-factory",
+    "source": "Community Archive raw archive + Supabase incremental dumps",
+    "archive_file": "data/archive.json",
+    "archive_posts": "data/archive_posts.jsonl",
+    "updates_dir": "data/updates",
+    "merged_posts": "data/merged_posts.jsonl",
+    "trust_os_mapping": {
+      "sun": "account corpus gravity center",
+      "planet": "visitable topic cluster",
+      "artifact": "dated quote-backed archive receipt"
+    }
+  }
+}
